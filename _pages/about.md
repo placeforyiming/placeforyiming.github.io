@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. In the middle of my PhD from 05/2019 to 11/2019, I worked at iRobot as an intern supervised by [Dr. Stefan Zickler](https://scholar.google.com/citations?user=G_vOcFUAAAAJ&hl=en&oi=ao). During my PhD, I'm working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
+I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. In the middle of my PhD from 05/2019 to 11/2019, I worked at iRobot as an intern supervised by [Dr. Stefan Zickler](https://scholar.google.com/citations?user=G_vOcFUAAAAJ&hl=en&oi=ao). I'm working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
 <ul>
   <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous cars via solving the <b>depth completion task</b>. </li>
   <li>The counterpart LiDAR-centered system is built by solving the <b>point cloud panoptic segmentation task</b>. </li>
