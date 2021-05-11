@@ -11,9 +11,9 @@ redirect_from:
 I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcester Polytechnic Institute. During my PhD, I'm working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
 <ul>
   <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous car via solving the <b>depth completion task</b>. </li>
-  <li>The counterpart LiDAR-cented system is built by solving the *point cloud panoptic segmentation task*. </li>
-  <li>For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (***deep homography task***).</li>
-   <li> At iRobot as a half-year intern, I built a label-free system to train a depth prediction network for monocular camera by combining existing 3D reconstruction system with ***self-supervised depth prediction task***.</li>
+  <li>The counterpart LiDAR-cented system is built by solving the <b>point cloud panoptic segmentation task</b>. </li>
+  <li>For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (<b>deep homography task</b>).</li>
+   <li> At iRobot as a half-year intern, I built a label-free system to train a depth prediction network for monocular camera by combining existing 3D reconstruction system with <b>self-supervised depth prediction task</b>.</li>
 </ul>
  
  Besides those research projects, I also implemented several popular robotic vision models on demand, such as 3D detector AVOD, 2D detector YOLO series, and panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
