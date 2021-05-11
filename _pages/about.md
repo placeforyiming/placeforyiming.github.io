@@ -21,11 +21,11 @@ I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhu
 
 Master of Systems Science at BNU
 ======
-I spent two years to get the master degree of systems science at Beijing Normal University. I published a good data modeling paper as well as undertook several industiral projects.   
+I spent two years to get the master degree of systems science at Beijing Normal University. I published a good stochastic process data modeling paper as well as undertook several industiral projects.   
 
 Bachelor of Physics at LZU
 ======
-My undergraduate life at Lanzhou University is pure and enjoyable. I majored in math for two years, then transfered to physics for three years. This is an important period for me that I learned not only the scientific knowledge but also how human understand the world. More specific, I discard the idea that the physical world is determinable with universal truth and accept the fundamental uncertainty with inevitable observers' bias.        
+My undergraduate life at Lanzhou University is pure and enjoyable. I majored in math for two years, then transfered to physics for three years. This is an important period for me that I learned not only the scientific knowledge but also how human understand the world. More specific, I discard the idea that the physical world is determinable with universal truth and accept the fundamental uncertainty with inevitable observers' bias. I mean, physically, not socially. I won some scholars, such as the second prize of the national mathematical modeling. I also was a member of an undergraduate therotecal physics research project.   
 
 Getting started
 ======
