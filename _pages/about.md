@@ -25,8 +25,7 @@ I spent two years to get the master degree of systems science at Beijing Normal 
 
 Bachelor of Physics at LZU
 ======
-
-
+My undergraduate life at Lanzhou University is pure and enjoyable. I majored in math for two years, then transfered to physics for three years. This is an important period for me that I learned not only the scientific knowledge but also how human understand the world. More specific, I discard the idea that the physical world is determinable with universal truth and accept the fundamental uncertainty with inevitable observers' bias.        
 
 Getting started
 ======
