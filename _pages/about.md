@@ -10,8 +10,8 @@ redirect_from:
 
 I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcester Polytechnic Institute. During my PhD, I'm working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
 <ul>
-  <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous car via solving the ***depth completion task***. </li>
-  <li>The counterpart LiDAR-cented system is built by solving the ***point cloud panoptic segmentation task***. </li>
+  <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous car via solving the <b>depth completion task</b>. </li>
+  <li>The counterpart LiDAR-cented system is built by solving the *point cloud panoptic segmentation task*. </li>
   <li>For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (***deep homography task***).</li>
    <li> At iRobot as a half-year intern, I built a label-free system to train a depth prediction network for monocular camera by combining existing 3D reconstruction system with ***self-supervised depth prediction task***.</li>
 </ul>
