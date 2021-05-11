@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcester Polytechnic Institute. During my PhD, I'm working on general robotic vision systems. Specifically, I built a camera-centered online 3D semantic grid system for autonomous car via solving the ***depth completion task***. The counterpart LiDAR-cented system is built by solving the ***point cloud panoptic segemntation task***. For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (***deep homography***).    
+I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcester Polytechnic Institute. During my PhD, I'm working on building general robotic vision systems to meet the requirement of my funding. Specifically, I built a camera-centered online 3D semantic grid system for autonomous car via solving the ***depth completion task***. The counterpart LiDAR-cented system is built by solving the ***point cloud panoptic segemntation task***. For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (***deep homography***).    
 
 A data-driven personal website
 ======
