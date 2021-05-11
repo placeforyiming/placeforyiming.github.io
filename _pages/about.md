@@ -15,6 +15,7 @@ I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcest
   <li>For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite by extending tradition Lucas-Kanade with neural networks (***deep homography task***).</li>
    <li> I also worked at iRobot as a visual understanding intern supervised by Dr. Stefan Zickler for half a year. At iRobot, I built a label-free system to train a depth prediction network for monocular camera by combining existing 3D reconstruction system with ***self-supervised depth prediction task***.</li>
 </ul>
+ 
  Besides those research projects, I also implemented several popular robotic vision models on demand, such as 3D detector AVOD, 2D detector YOLO series, and panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
 
 In terms of the robustness and explainability, I'm particularly intersted in how to combine traditional vision models with data-driven deep neural networks. This philosophy goes though almost all my projects and always gives me new ideas and suprising outcomes.   
