@@ -16,7 +16,7 @@ I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhu
    <li> At iRobot, I built a label-free system to train a monocular depth prediction network by combining existing 3D reconstruction system with <b>self-supervised depth prediction task</b>.</li>
 </ul>
  
- Besides those research projects, I also implemented several popular robotic vision models on demand, such as the 3D detector AVOD, the 2D YOLO series, and panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
+ Besides those research projects, I also implemented several popular robotic vision models on demand, such as the 3D detector AVOD, the 2D YOLO series, and the panoptic model panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
    
 <!---
 Master of Systems Science at BNU
