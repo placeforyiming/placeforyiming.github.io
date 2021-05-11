@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Current PhD Experiences"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcester Polytechnic Institute. I also spent half a year to work at iRobot as an intern supervised by Dr. Stefan Zickler. During my PhD, I have been working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
+I'm a PhD candidate supervised by Dr. Xinming Huang(https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. I also spent half a year to work at iRobot as an intern supervised by Dr. Stefan Zickler. During my PhD, I have been working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
 <ul>
   <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous cars via solving the <b>depth completion task</b>. </li>
   <li>The counterpart LiDAR-cented system is built by solving the <b>point cloud panoptic segmentation task</b>. </li>
@@ -16,11 +16,10 @@ I'm a PhD candidate supervised by Dr. Xinming Huang at ECE Department of Worcest
    <li> At iRobot, I built a label-free system to train a monocular depth prediction network by combining existing 3D reconstruction system with <b>self-supervised depth prediction task</b>.</li>
 </ul>
  
- Besides those research projects, I also implemented several popular robotic vision models on demand, such as 3D detector AVOD, 2D detector YOLO series, and panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
+ Besides those research projects, I also implemented several popular robotic vision models on demand, such as the 3D detector AVOD, the 2D YOLO series, and panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
+   
 
-In terms of the robustness and explainability, I'm particularly intersted in how to combine traditional vision models with data-driven deep neural networks. This philosophy goes though almost all my projects and always gives me new ideas and suprising outcomes.   
-
-A data-driven personal website
+Master of Systems Science at BNU
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
