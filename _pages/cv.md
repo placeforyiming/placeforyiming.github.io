@@ -49,21 +49,9 @@ Skills
 
 Publications
 ======
-  Deep Lucas-Kanade Homography for Multimodal Image Alignment. (CVPR21) Zhao, Yiming, Huang, Xinming and Zhang, Ziming
+  * Distance Transform Neural Network for LiDAR Depth Completion. (under review by TNNLS) Zhao, Yiming, Zhang, Ziming and Huang, Xinming 
+  * Deep Lucas-Kanade Homography for Multimodal Image Alignment. (accepted by CVPR21) Zhao, Yiming, Huang, Xinming and Zhang, Ziming
+  * A Surface Geometry Model for LiDAR Depth Completion. (published on IEEE Robotics and Automation Letter) Zhao, Yiming, Lin Bai, Zhang, Ziming and Huang, Xinming
+  * dfs
 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
