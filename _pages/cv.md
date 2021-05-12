@@ -37,12 +37,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills
+  * language: Python, C++, C, R, sql.
+  * tools&framework: Tensorflow 1&2, PyTorch, ROS, Git, Markdone.
+  * Learned at class: Fortran, Java, Scala, MongoDB, Hadoop, Spark, etc. 
+* Mathematical skills:
+  * Math foundatoin: Real Analysis, Complex Analysis, Abstract Algebra, Stochastic Analysis, Non-linear Dynamic, Equations of Mathematical Physics.
+  * Statistics&Machine Learning:
+  
+
 
 Publications
 ======
