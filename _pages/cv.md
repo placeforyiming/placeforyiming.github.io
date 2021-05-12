@@ -49,9 +49,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Deep Lucas-Kanade Homography for Multimodal Image Alignment. (CVPR21) Zhao, Yiming, Huang, Xinming and Zhang, Ziming
+
   
 Talks
 ======
