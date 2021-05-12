@@ -42,8 +42,8 @@ Skills
   * tools&framework: Tensorflow 1&2, PyTorch, ROS, Git, Markdone.
   * Learned at class: Fortran, Java, Scala, MongoDB, Hadoop, Spark, etc. 
 * Mathematical skills:
-  * Math foundatoin: Real Analysis, Complex Analysis, Abstract Algebra, Stochastic Analysis, Non-linear Dynamic, Equations of Mathematical Physics.
-  * Statistics&Machine Learning:
+  * Math foundatoins: Real Analysis, Complex Analysis, Abstract Algebra, Stochastic Analysis, Non-linear Dynamic, Mathematical Physics.
+  * Statistics&Machine Learning: Prabability and Statistics, Multivariable Statistics, Machine Learning, Deep Learning. 
   
 
 
