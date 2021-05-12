@@ -49,7 +49,7 @@ Skills
 
 Publications
 ======
-  * Distance Transform Neural Network for LiDAR Depth Completion. (under review by IEEE Trans. Neural Network and Learning Systems) Zhao, Yiming, Zhang, Ziming and Huang, Xinming 
+  * Distance Transform Neural Network for LiDAR Depth Completion. (under review for IEEE Trans. Neural Network and Learning Systems) Zhao, Yiming, Mahdi Elhousini, Ziming Zhang, and Xinming Huang.
   * Deep Lucas-Kanade Homography for Multimodal Image Alignment. (accepted by CVPR21) Zhao, Yiming, Xinming Huang, and Ziming Zhang. 
   * A Surface Geometry Model for LiDAR Depth Completion. (published on IEEE Robotics and Automation Letter) Zhao, Yiming, Lin Bai, Ziming Zhang, and Xinming Huang.
   * A CNN Accelerator on FPGA Using Depthwise Separable Convolution. (published on IEEE Trans. on Circuits and Systems II) Bai. Lin, Zhao. Yiming and Huang, Xinming 
