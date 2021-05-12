@@ -29,8 +29,8 @@ Work experience
 
 
 * Other Semesters of my PhD: Teaching Assistant at Worcester Polytechnic Institute 
-  * Course co-designer of two graduate level courses: ECE579. Machine Learning for Engineering Applications and ECE545/CS545. Digital Image Processing.
-  * General teaching assistant workload (grade, office hour, lab manager, etc) for several undergraduate courses: ECE2049. Embedded Computing in Engineering Design, ECE 2029. Introduction to Digital Circuit Design, and ECE 2010. Introduction to Electrical and Computer Engineering.
+  * Course co-designer of two graduate level courses: ECE579 and ECE545/CS545 which cover topics in machine learning and computer vision.
+  * General teaching assistant workload (grade, office hour, lab manager, etc) for several undergraduate courses: ECE2049, ECE 2029 and ECE 2010.
   
 
 
