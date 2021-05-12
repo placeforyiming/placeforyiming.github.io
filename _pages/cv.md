@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2021 (expected)
+* M.S. in Systems Science, Beijing Normal University, 2016
+* B.S. in Physics, Lanzhou University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 to March 2021 : Research Assistant supported by General Dynamic.
+  * Build a visual system to pixel-wise localize camera image of UAV with satellite map.
+  * The system is able to simultaneously learn invariance features from multi-modality image pairs.
+  * Several computer vision technics are seamlessly assembled together, including hierarchy Lucas-Kanade, Siamese Network, Spatial Transform Network, etc.  
+  
+*  May 2019 to November 2019: Visual Perception Intern at iRobot 
+  * Build a label-free training system for monocular depth prediction network.
+  * The system works stably by combining 3D reconstruction (colmap) with self-supervised learning.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
