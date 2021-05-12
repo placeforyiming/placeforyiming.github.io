@@ -23,7 +23,7 @@ Work experience
   * Several computer vision technics are seamlessly assembled together, including hierarchy Lucas-Kanade, Siamese Network, Spatial Transform Network, etc.  
 
 
-* ay 2019 to November 2019: Visual Perception Intern at iRobot 
+* May 2019 to November 2019: Visual Perception Intern at iRobot 
   * Build a label-free training system for monocular depth prediction network.
   * The system works stably for both indoor and outdoor cases by combining 3D reconstruction (colmap) with self-supervised learning.
   
