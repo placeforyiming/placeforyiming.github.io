@@ -29,8 +29,8 @@ Work experience
 
 
 * Other Semesters of my PhD: Teaching Assistant at Worcester Polytechnic Institute 
-  * Build a label-free training system for monocular depth prediction network.
-  * The system works stably for both indoor and outdoor cases by combining 3D reconstruction (colmap) with self-supervised learning.
+  * Course co-designer of two graduate level courses: ECE579. Machine Learning for Engineering Applications and ECE545/CS545. Digital Image Processing.
+  * General teaching assistant workload (grade, office hour, lab manager, etc) for several undergraduate courses: ECE2049. Embedded Computing in Engineering Design, ECE 2029. Introduction to Digital Circuit Design, and ECE 2010. Introduction to Electrical and Computer Engineering.
   
 
 
