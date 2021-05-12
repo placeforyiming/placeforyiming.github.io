@@ -21,9 +21,6 @@ Work experience
   * Build a visual system to pixel-wise localize camera image of UAV with satellite map.
   * The system is able to simultaneously learn invariance features from multi-modality image pairs.
   * Several computer vision technics are seamlessly assembled together, including hierarchy Lucas-Kanade, Siamese Network, Spatial Transform Network, etc.  
-  
-  
-  
 *  May 2019 to November 2019: Visual Perception Intern at iRobot 
   * Build a label-free training system for monocular depth prediction network.
   * The system works stably by combining 3D reconstruction (colmap) with self-supervised learning.  
