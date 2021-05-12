@@ -52,8 +52,7 @@ Publications
   * Distance Transform Neural Network for LiDAR Depth Completion. (under review for IEEE Trans. Neural Network and Learning Systems) Zhao, Yiming, Mahdi Elhousini, Ziming Zhang, and Xinming Huang.
   * Deep Lucas-Kanade Homography for Multimodal Image Alignment. (accepted by CVPR21) Zhao, Yiming, Xinming Huang, and Ziming Zhang. 
   * A Surface Geometry Model for LiDAR Depth Completion. (published on IEEE Robotics and Automation Letter) Zhao, Yiming, Lin Bai, Ziming Zhang, and Xinming Huang.
-  * A CNN Accelerator on FPGA Using Depthwise Separable Convolution. (published on IEEE Trans. on Circuits and Systems II) Bai. Lin, Zhao. Yiming and Huang, Xinming 
-  * Camera-based blind spot detection with a general purpose lightweight neural network. (publshed on Electronics) Zhao, Yiming, Lin Bai, Yecheng Lyu, and Xinming Huang. 
+  * A CNN Accelerator on FPGA Using Depthwise Separable Convolution. (published on IEEE Trans. on Circuits and Systems II) Bai. Lin, Zhao. Yiming and Huang, Xinming  
   * Unified underpinning of human mobility in the real world and cyberspace. (publshed on New Journal of Physics) Zhao, Yi-Ming, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, and Ying-Cheng Lai. 
 
   
