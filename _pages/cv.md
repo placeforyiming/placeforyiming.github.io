@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* May 2020 to March 2021 : ***Research Assistant*** supported by General Dynamic
+* May 2020 to March 2021 : ***Research Assistant*** supported by General Dynamics
   * Build a visual system to pixel-wise localize camera image of UAV with satellite map.
-  * The system is able to simultaneously learn invariance features from multi-modal image pairs.
+  * The system is able to simultaneously learn invariance features from multi-modality image pairs.
   * Several computer vision technics are seamlessly assembled together, including hierarchy Lucas-Kanade, Homography Mapping, Spatial Transform Network, etc.  
 
 
