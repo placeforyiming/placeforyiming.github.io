@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Pub&Demo"
+  - title: "Publications&Demo"
     url: /publications/
    
 
@@ -11,5 +11,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
