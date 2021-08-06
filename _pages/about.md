@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. In the middle of my PhD from 05/2019 to 11/2019, I worked at iRobot as an intern supervised by [Dr. Stefan Zickler](https://scholar.google.com/citations?user=G_vOcFUAAAAJ&hl=en&oi=ao). I'm working on building various robotic vision systems to meet the requirement of my fundings. Specifically:
-<ul>
-  <li>I built a camera-centered online 3D semantic occupancy grid system for autonomous cars via solving the <b>depth completion task</b>. </li>
-  <li>The counterpart LiDAR-centered system is built by solving the <b>point cloud panoptic segmentation task</b>. </li>
-  <li>For UAV and geo-survey, I proposed a pixel-wise geo-localization system to align the onboard camera image with satellite maps by extending tradition Lucas-Kanade with neural networks (<b>deep homography task</b>).</li>
-   <li> At iRobot, I built a label-free system to train a monocular depth prediction network by combining existing 3D reconstruction system with <b>self-supervised depth prediction task</b>.</li>
-</ul>
- 
- Besides those research projects, I also implemented several popular robotic vision models on demand, such as the 3D detector AVOD, the 2D YOLO series, and the panoptic model panoptic-Deeplab etc. Several of my research papers have been published on well-recognized conferences and journals, like CVPR and IEEE Robotic and Automation Letter. Some of my papers are still under review. Please see the Portfolio&Pub for details.
-   
+I'm a PhD candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. Coping with this deep learning age, finished projects during my Ph.D. explored how to combine deep learning methods with classic vision models to solve hard core 3D robotic perception challengs, including depth completion, point cloud semantic and panoptic segmentation, localization with satelllite, etc.
+
+In the middle of my PhD from 05/2019 to 11/2019, I worked at iRobot as a visual preception intern supervised by [Dr. Stefan Zickler](https://scholar.google.com/citations?user=G_vOcFUAAAAJ&hl=en&oi=ao). During my internship, I worked on self-supervised depth prediction with 3D reconstruction.
+
+I have several papers published, accepted or under-review for premier conferences and journals in computer vision and robotics, including CVPR, IROS, RAL, etc.
+
+
 <!---
 Master of Systems Science at BNU
 ======
