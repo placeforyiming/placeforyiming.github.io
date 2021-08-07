@@ -41,6 +41,15 @@ author_profile: true
 <br />
 
 <p>
+ <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/3Ddetection.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
+<b>3D Vehicle Detection Using Camera and Low-Resolution LiDAR</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>arxiv</i>. 2020.<br>
+<br clear="left">
+</p>
+
+<br />
+<br />
+
+<p>
  <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
 <b>A CNN accelerator on FPGA using depthwise separable convolution</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>IEEE Transactions on Circuits and Systems II</i>. 2018.<br>
 <br clear="left">
