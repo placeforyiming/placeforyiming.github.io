@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# <i class="fa fa-fw fa-copy"></i> Publications #
 
 <p>
 <a href="https://placeforyiming.github.io/publications/Homography-cvpr21"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/homography.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
