@@ -17,8 +17,9 @@ author_profile: true
 
 <p>
 <a href="https://placeforyiming.github.io/publications/Homography-cvpr21"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ral_depth_completion.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/Homography-cvpr21">Deep Lucas-Kanade Homography for Multimodal Image Alignment</a></b><br><b>Yiming Zhao</b>, Xinming Huang, and Ziming Zhang. <i>CVPR</i>. 2021.<br>
-[<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Deep_Lucas-Kanade_Homography_for_Multimodal_Image_Alignment_CVPR_2021_paper.html">Paper</a>]
-[<a href="https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography">Code</a>]
+<b><a href="https://placeforyiming.github.io/publications/Homography-cvpr21">A Surface Geometry Model for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Lin Bai, Ziming Zhang, and Xinming Huang. <i>IEEE Robotics and Automation Letters</i>. 2021.<br>
+[<a href="https://arxiv.org/abs/2104.08466">Paper</a>]
+[<a href="https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion">Code</a>]
 <br clear="left">
 </p>
+
