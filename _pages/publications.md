@@ -8,7 +8,7 @@ author_profile: true
 
 <p>
 <a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/depth_completion_DTNN.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">Distance Transform Pooling Neural Network for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. <br><i>Under Revision for TNNLS</i>. 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">Distance Transform Pooling Neural Network for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. <br><i>Under Revision for TNNLS</i>. .<br>
 <!---[<a href="https://arxiv.org/abs/2104.08466">Paper</a>]
 [<a href="https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion">Code</a>]-->
 <br clear="left">
