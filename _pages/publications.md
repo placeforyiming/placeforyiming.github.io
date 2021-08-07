@@ -52,7 +52,7 @@ author_profile: true
 <br />
 
 <p>
-<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 200px; height: 140px;" hspace="10" align="left"/>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
 <b>A CNN accelerator on FPGA using depthwise separable convolution</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>IEEE Transactions on Circuits and Systems II</i>. 2018.<br>
 <br clear="left">
 </p>
@@ -61,7 +61,7 @@ author_profile: true
 <br />
 
 <p>
-<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/njp.png?raw=true" alt="Figure" style="width: 200px; height: 140px;" hspace="10" align="left"/>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/njp.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
 <b>Unified underpinning of human mobility in the real world and cyberspace</a></b><br><b>Yiming Zhao</b>, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, Ying-Cheng Lai. <br><i>New Journal of Physics</i>. 2016.<br>
 <br clear="left">
 </p>
