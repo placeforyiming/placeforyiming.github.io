@@ -43,6 +43,25 @@ author_profile: true
 <p>
 <a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/blind_spot_demo.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
 <b>Camera-based Blind Spot Detection</a></b><br><b>Yiming Zhao</b>, Lin Bai, Yecheng Lyu, and Xinming Huang. <br><i>Electronics</i>. 2018.<br>
+[<a href="https://www.mdpi.com/2079-9292/8/2/233">Paper</a>]
+[<a href="https://github.com/placeforyiming/BlindSpotDetection">Code</a>]
 <br clear="left">
 </p>
 
+<br />
+<br />
+
+<p>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<b>A CNN accelerator on FPGA using depthwise separable convolution</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>IEEE Transactions on Circuits and Systems II</i>. 2018.<br>
+<br clear="left">
+</p>
+
+<br />
+<br />
+
+<p>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/njp.png?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<b>Unified underpinning of human mobility in the real world and cyberspace</a></b><br><b>Yiming Zhao</b>, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, Ying-Cheng Lai. <br><i>New Journal of Physics</i>. 2016.<br>
+<br clear="left">
+</p>
