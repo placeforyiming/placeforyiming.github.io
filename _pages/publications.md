@@ -36,3 +36,13 @@ author_profile: true
 <br clear="left">
 </p>
 
+
+<br />
+<br />
+
+<p>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/blind_spot_demo.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<b>Camera-based Blind Spot Detection</a></b><br><b>Yiming Zhao</b>, Lin Bai, Yecheng Lyu, and Xinming Huang. <i>Electronics</i>. 2021.<br>
+<br clear="left">
+</p>
+
