@@ -50,11 +50,11 @@ Education
 
 Publications
 ======
-  * Distance Transform Neural Network for LiDAR Depth Completion. (under review for IEEE Trans. Neural Network and Learning Systems) Zhao, Yiming, Mahdi Elhousini, Ziming Zhang, and Xinming Huang.
-  * FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding. (accepted for IROS21) Zhao, Yiming, Lin Bai, and Xinming Huang.
-  * **Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. 
-  * A Surface Geometry Model for LiDAR Depth Completion. (published on IEEE Robotics and Automation Letter) Zhao, Yiming, Lin Bai, Ziming Zhang, and Xinming Huang.
-  * A CNN Accelerator on FPGA Using Depthwise Separable Convolution. (published on IEEE Trans. on Circuits and Systems II) Bai. Lin, Zhao. Yiming and Huang, Xinming  
-  * Unified underpinning of human mobility in the real world and cyberspace. (publshed on New Journal of Physics) Zhao, Yi-Ming, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, and Ying-Cheng Lai. 
+  * **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." (under review for IEEE Trans. Neural Network and Learning Systems) 
+  * **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." (Accepter) In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  * **Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 15950-15959. 2021.
+  * **Zhao, Yiming**, Lin Bai, Ziming Zhang, and Xinming Huang. "A Surface Geometry Model for LiDAR Depth Completion." IEEE Robotics and Automation Letters 6, no. 3 (2021): 4457-4464.
+  * Bai, Lin, **Yiming Zhao**, and Xinming Huang. "A CNN accelerator on FPGA using depthwise separable convolution." IEEE Transactions on Circuits and Systems II: Express Briefs 65, no. 10 (2018): 1415-1419.
+  * **Zhao, Yiming**, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, and Ying-Cheng Lai. "Unified underpinning of human mobility in the real world and cyberspace." New Journal of Physics 18, no. 5 (2016): 053025.
 
   
