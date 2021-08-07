@@ -3,8 +3,8 @@ title: "Deep Lucas-Kanade Homography for Multimodal Image Alignment"
 collection: publications
 permalink: /publications/Homography-cvpr21
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2021-07-22
-venue: "International Conference on Computer Vision 2021"
+date: 2021-06-22
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021"
 paperurl: ""
 citation: '<b>Yiming Zhao</b>, Xinming Huang, Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment". <i>CVPR</i>. 2021.'
 ---
