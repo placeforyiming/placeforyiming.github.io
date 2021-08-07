@@ -41,10 +41,8 @@ author_profile: true
 <br />
 
 <p>
-<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/blind_spot_demo.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b>Camera-based Blind Spot Detection</a></b><br><b>Yiming Zhao</b>, Lin Bai, Yecheng Lyu, and Xinming Huang. <br><i>Electronics</i>. 2018.<br>
-[<a href="https://www.mdpi.com/2079-9292/8/2/233">Paper</a>]
-[<a href="https://github.com/placeforyiming/BlindSpotDetection">Code</a>]
+ <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
+<b>A CNN accelerator on FPGA using depthwise separable convolution</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>IEEE Transactions on Circuits and Systems II</i>. 2018.<br>
 <br clear="left">
 </p>
 
@@ -52,8 +50,10 @@ author_profile: true
 <br />
 
 <p>
- <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ticas.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
-<b>A CNN accelerator on FPGA using depthwise separable convolution</a></b><br>Lin Bai, <b>Yiming Zhao</b>, and Xinming Huang. <br><i>IEEE Transactions on Circuits and Systems II</i>. 2018.<br>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/blind_spot_demo.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<b>Camera-based Blind Spot Detection</a></b><br><b>Yiming Zhao</b>, Lin Bai, Yecheng Lyu, and Xinming Huang. <br><i>Electronics</i>. 2018.<br>
+[<a href="https://www.mdpi.com/2079-9292/8/2/233">Paper</a>]
+[<a href="https://github.com/placeforyiming/BlindSpotDetection">Code</a>]
 <br clear="left">
 </p>
 
