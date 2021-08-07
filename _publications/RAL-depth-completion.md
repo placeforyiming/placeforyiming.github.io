@@ -1,4 +1,4 @@
-# Localize Robots by Matching On-board Sensor Perception with Satellite Map
+# Depth Completion: A Bridge to Connect 2D with 3D
 
 ## Abstract
-Estimating homography to align image pairs captured by different sensors or image pairs with large appearance changes is an important and general challenge for many computer vision applications. In contrast to others, we propose a generic solution to pixel-wise align multimodal image pairs by extending the traditional Lucas-Kanade algorithm with networks.
+LiDAR depth completion is a task that predicts depth values for every pixel on the corresponding camera frame although only sparse LiDAR points are available. With the completed depth map, all 2D computer vision models on the 2D image are able to be embedded into the 3D world.
