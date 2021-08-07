@@ -13,4 +13,4 @@ citation: '<b>Yiming Zhao</b>, Xinming Huang, Ziming Zhang. "Deep Lucas-Kanade H
 ## Abstract
 Estimating homography to align image pairs captured by different sensors or image pairs with large appearance changes is an important and general challenge for many computer vision applications. In contrast to others, we propose a generic solution to pixel-wise align multimodal image pairs by extending the traditional Lucas-Kanade algorithm with networks.
 
-<img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/geo_localization.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/geo_localization.gif?raw=true" alt="Figure" style="width: 540px; height: 320px;" hspace="10" align="left"/></a>
