@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond"
 collection: publications
-permalink: /publication/Homography-cvpr21
+permalink: /publications/Homography-cvpr21
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2021-07-22
 venue: "International Conference on Computer Vision 2021"
