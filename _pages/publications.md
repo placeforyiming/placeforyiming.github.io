@@ -14,6 +14,8 @@ author_profile: true
 <br clear="left">
 </p>
 
+<br />
+<br />
 
 <p>
 <a href="https://placeforyiming.github.io/publications/Homography-cvpr21"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/homography.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
@@ -23,7 +25,8 @@ author_profile: true
 <br clear="left">
 </p>
 
-
+<br />
+<br />
 
 <p>
 <a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ral_depth_completion.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
