@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+Experiences
 ======
 * May 2020 to March 2021 : ***Research Assistant*** supported by ***General Dynamics***
   * Build a visual system to pixel-wise localize camera image of UAV with satellite map.
