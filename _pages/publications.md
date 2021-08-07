@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<p>
+<a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/depth_completion_DTNN.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">Distance Transform Pooling Neural Network for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Lin Bai, Ziming Zhang, and Xinming Huang. <i>IEEE Robotics and Automation Letters</i>. 2021.<br>
+[<a href="https://arxiv.org/abs/2104.08466">Paper</a>]
+[<a href="https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion">Code</a>]
+<br clear="left">
+</p>
+
+
 <p>
 <a href="https://placeforyiming.github.io/publications/Homography-cvpr21"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/homography.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
 <b><a href="https://placeforyiming.github.io/publications/Homography-cvpr21">Deep Lucas-Kanade Homography for Multimodal Image Alignment</a></b><br><b>Yiming Zhao</b>, Xinming Huang, and Ziming Zhang. <i>CVPR</i>. 2021.<br>
