@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. Coping with this deep learning age, my projects during Ph.D. explored how to combine deep learning methods with classic vision models to solve hard core 3D robotic perception challengs, including [depth completion](https://placeforyiming.github.io/publications/RAL-depth-completion/), point cloud semantic segmentation, point cloud panoptic segmentation, and [localization with satellite](https://placeforyiming.github.io/publications/Homography-cvpr21/), etc. I have several papers published, accepted or under-review for premier conferences and journals in computer vision and robotics, including CVPR, IROS, RAL, etc.
 
-In the middle of my Ph.D. from 05/2019 to 11/2019, I worked at ***iRobot*** as a visual preception intern supervised by [Dr. Stefan Zickler](https://scholar.google.com/citations?user=G_vOcFUAAAAJ&hl=en&oi=ao). During my internship, I worked on ***self-supervised depth prediction*** with ***3D reconstruction***.
+In the middle of my Ph.D. from 05/2019 to 11/2019, I worked at ***iRobot*** as a visual preception intern supervised by Dr. Stefan Zickler. During my internship, I worked on ***self-supervised depth prediction*** with ***3D reconstruction***.
 
 Before starting my Ph.D. in Worcester Polytechnic Institute, I studied in physics for several years. The life of learning physics is enjoyable.
 
