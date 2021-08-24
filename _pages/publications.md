@@ -7,7 +7,7 @@ author_profile: true
 
 <p>
 <a href="https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/instance.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>ICCV</i>. 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>ICCV</i> 2021.<br> <br> Workshop on Traditional Computer Vision in the Age of Deep Learning<br>
 [<a href="https://arxiv.org/abs/2108.09522">Paper</a>]
 [<a href="https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster">Code</a>]
 <br clear="left">
@@ -19,7 +19,7 @@ author_profile: true
 
 <p>
 <a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/semantic.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding</a></b><br><b>Yiming Zhao</b>, Lin bai, and Xinming Huang. <br><i>IROS</i>. 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding</a></b><br><b>Yiming Zhao</b>, Lin bai, and Xinming Huang. <br><i>IROS</i> 2021.<br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Deep_Lucas-Kanade_Homography_for_Multimodal_Image_Alignment_CVPR_2021_paper.html">Paper</a>]
 [<a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI">Code</a>]
 <br clear="left">
@@ -42,7 +42,7 @@ author_profile: true
 
 <p>
 <a href="https://placeforyiming.github.io/publications/Homography-cvpr21"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/homography.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/Homography-cvpr21">Deep Lucas-Kanade Homography for Multimodal Image Alignment</a></b><br><b>Yiming Zhao</b>, Xinming Huang, and Ziming Zhang. <br><i>CVPR</i>. 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/Homography-cvpr21">Deep Lucas-Kanade Homography for Multimodal Image Alignment</a></b><br><b>Yiming Zhao</b>, Xinming Huang, and Ziming Zhang. <br><i>CVPR</i> 2021.<br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Deep_Lucas-Kanade_Homography_for_Multimodal_Image_Alignment_CVPR_2021_paper.html">Paper</a>]
 [<a href="https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography">Code</a>]
 <br clear="left">
@@ -53,7 +53,7 @@ author_profile: true
 
 <p>
 <a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/ral_depth_completion.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">A Surface Geometry Model for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Lin Bai, Ziming Zhang, and Xinming Huang. <br><i>IEEE Robotics and Automation Letters</i>. 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">A Surface Geometry Model for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Lin Bai, Ziming Zhang, and Xinming Huang. <br><i>IEEE Robotics and Automation Letters</i> 2021.<br>
 [<a href="https://arxiv.org/abs/2104.08466">Paper</a>]
 [<a href="https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion">Code</a>]
 <br clear="left">
