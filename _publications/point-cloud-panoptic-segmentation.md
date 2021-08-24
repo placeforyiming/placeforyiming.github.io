@@ -18,7 +18,7 @@ A demo video of our IROS paper on semantic segmentation:
 <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/semantic.gif?raw=true" alt="Figure" style="width: 540px; height: 280px;" hspace="10" align="left"/>
 
 <br />
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 A demo video of our hybrid solution on panoptic segmentation:
 <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/panoptic.gif?raw=true" alt="Figure" style="width: 540px; height: 280px;" hspace="1" align="left"/>
 
