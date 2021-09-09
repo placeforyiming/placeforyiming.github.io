@@ -32,7 +32,7 @@ author_profile: true
 <p>
 <a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/semantic.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
 <b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding</a></b><br><b>Yiming Zhao</b>, Lin bai, and Xinming Huang. <br><i>IROS</i> 2021.<br>
-[<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Deep_Lucas-Kanade_Homography_for_Multimodal_Image_Alignment_CVPR_2021_paper.html">Paper</a>]
+[<a href="https://arxiv.org/pdf/2109.03787.pdf">Paper</a>]
 [<a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI">Code</a>]
 <br clear="left">
 </p>
