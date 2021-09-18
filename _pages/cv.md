@@ -50,14 +50,14 @@ Education
 
 Publications
 ======
-   * **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation." (Submitted) 2022 IEEE International Conference on Robotics and Automation (ICRA) 2022. 
-   * **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 1st Workshop on Traditional Computer Vision in the Age of Deep Learning (TradiCV) (2021).
-  * **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under revision for IEEE Trans. Neural Network and Learning Systems (TNNLS)
-  * **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  * **Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 15950-15959. 2021.
-  * **Zhao, Yiming**, Lin Bai, Ziming Zhang, and Xinming Huang. "A Surface Geometry Model for LiDAR Depth Completion." IEEE Robotics and Automation Letters 6 (RAL), no. 3 (2021): 4457-4464.
-  * Bai, Lin, **Yiming Zhao**, and Xinming Huang. "3D Vehicle Detection Using Camera and Low-Resolution LiDAR." arXiv preprint arXiv:2105.01765 (2021).
-  * Bai, Lin, **Yiming Zhao**, and Xinming Huang. "A CNN accelerator on FPGA using depthwise separable convolution." IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS II)65, no. 10 (2018): 1415-1419.
-  * **Zhao, Yiming**, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, and Ying-Cheng Lai. "Unified underpinning of human mobility in the real world and cyberspace." New Journal of Physics (NJP)18, no. 5 (2016): 053025.
+   * [1]**Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation." (Submitted) 2022 IEEE International Conference on Robotics and Automation (ICRA) 2022. 
+   * [2]**Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 1st Workshop on Traditional Computer Vision in the Age of Deep Learning (TradiCV) (2021).
+  * [3]**Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under revision for IEEE Trans. Neural Network and Learning Systems (TNNLS)
+  * [4]**Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  * [5]**Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 15950-15959. 2021.
+  * [6]**Zhao, Yiming**, Lin Bai, Ziming Zhang, and Xinming Huang. "A Surface Geometry Model for LiDAR Depth Completion." IEEE Robotics and Automation Letters 6 (RAL), no. 3 (2021): 4457-4464.
+  * [7]Bai, Lin, **Yiming Zhao**, and Xinming Huang. "3D Vehicle Detection Using Camera and Low-Resolution LiDAR." arXiv preprint arXiv:2105.01765 (2021).
+  * [8]Bai, Lin, **Yiming Zhao**, and Xinming Huang. "A CNN accelerator on FPGA using depthwise separable convolution." IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS II)65, no. 10 (2018): 1415-1419.
+  * [9]**Zhao, Yiming**, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, and Ying-Cheng Lai. "Unified underpinning of human mobility in the real world and cyberspace." New Journal of Physics (NJP)18, no. 5 (2016): 053025.
 
   
