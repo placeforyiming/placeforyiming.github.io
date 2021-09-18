@@ -50,6 +50,7 @@ Education
 
 Publications
 ======
+   * **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation." (Submitted) 2022 IEEE International Conference on Robotics and Automation (ICRA) 2022. 
    * **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 1st Workshop on Traditional Computer Vision in the Age of Deep Learning (TradiCV) (2021).
   * **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under revision for IEEE Trans. Neural Network and Learning Systems (TNNLS)
   * **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
