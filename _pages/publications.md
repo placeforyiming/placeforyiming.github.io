@@ -7,9 +7,9 @@ author_profile: true
 
 <p>
 <a href="https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/panoptic.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">A Divide-and-Conquer Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>Submitting to RAL with ICRA</i> option.<br> 
-<!---[<a href="https://arxiv.org/abs/2108.09522">Paper</a>]
-[<a href="https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster">Code</a>]-->
+<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>Submitting ICRA'22</i> option.<br> 
+[<a href="https://arxiv.org/abs/2108.09522">Paper</a>]
+[<a href="https://github.com/placeforyiming/Divide-and-Merge-LiDAR-Panoptic-Cluster">Code</a>]
 <br clear="left">
 </p>
 
