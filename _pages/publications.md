@@ -107,5 +107,6 @@ author_profile: true
 <p>
  <img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/njp.png?raw=true" alt="Figure" style="width: 240px; height: 140px;" hspace="10" align="left"/>
 <b>Unified underpinning of human mobility in the real world and cyberspace</a></b><br><b>Yiming Zhao</b>, An Zeng, Xiao-Yong Yan, Wen-Xu Wang, Ying-Cheng Lai. <br><i>New Journal of Physics</i>. 2016.<br>
+[<a href="https://iopscience.iop.org/article/10.1088/1367-2630/18/5/053025/meta">Paper</a>]
 <br clear="left">
 </p>
