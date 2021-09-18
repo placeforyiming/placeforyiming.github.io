@@ -50,8 +50,9 @@ Education
 
 Publications
 ======
-  * **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under review for IEEE Trans. Neural Network and Learning Systems (TNNLS)
-  * **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." (Accepter) In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+   * **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 1st Workshop on Traditional Computer Vision in the Age of Deep Learning (TradiCV) (2021).
+  * **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under revision for IEEE Trans. Neural Network and Learning Systems (TNNLS)
+  * **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   * **Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 15950-15959. 2021.
   * **Zhao, Yiming**, Lin Bai, Ziming Zhang, and Xinming Huang. "A Surface Geometry Model for LiDAR Depth Completion." IEEE Robotics and Automation Letters 6 (RAL), no. 3 (2021): 4457-4464.
   * Bai, Lin, **Yiming Zhao**, and Xinming Huang. "3D Vehicle Detection Using Camera and Low-Resolution LiDAR." arXiv preprint arXiv:2105.01765 (2021).
