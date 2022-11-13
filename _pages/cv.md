@@ -43,16 +43,16 @@ Skills
   
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2021 (expected)
+* Ph.D in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2021
 * M.S. in Systems Science, Beijing Normal University, 2016
 * B.S. in Physics, Lanzhou University, 2014
 
 
 Publications
 ======
-   * [1] **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation." (Submitted) 2022 IEEE International Conference on Robotics and Automation (ICRA) 2022. 
+   * [1] **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation." In 2022 IEEE International Conference on Robotics and Automation (ICRA) 2022. 
    * [2] **Zhao, Yiming**, Xiao Zhang, and Xinming Huang. "A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 1st Workshop on Traditional Computer Vision in the Age of Deep Learning (TradiCV) (2021).
-   * [3] **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." under revision for IEEE Trans. Neural Network and Learning Systems (TNNLS)
+   * [3] **Zhao, Yiming**, Mahdi Elhousini, Ziming Zhang, and Xinming Huang. "Distance Transform Neural Network for LiDAR Depth Completion." IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
    * [4] **Zhao, Yiming**, Lin Bai, and Xinming Huang. "FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding." In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
    * [5] **Zhao, Yiming**, Xinming Huang, and Ziming Zhang. "Deep Lucas-Kanade Homography for Multimodal Image Alignment." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 15950-15959. 2021.
    * [6] **Zhao, Yiming**, Lin Bai, Ziming Zhang, and Xinming Huang. "A Surface Geometry Model for LiDAR Depth Completion." IEEE Robotics and Automation Letters 6 (RAL), no. 3 (2021): 4457-4464.
