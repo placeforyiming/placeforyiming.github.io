@@ -7,7 +7,7 @@ author_profile: true
 
 <p>
 <a href="https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/panoptic.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>Submitted to ICRA 2022</i>.<br> 
+<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation</a></b><br><b>Yiming Zhao</b>, Xiao Zhang, and Xinming Huang. <br><i>ICRA 2022</i>.<br> 
 [<a href="https://arxiv.org/abs/2109.08224">Paper</a>]
 [<a href="https://github.com/placeforyiming/Divide-and-Merge-LiDAR-Panoptic-Cluster">Code</a>]
 <br clear="left">
@@ -31,7 +31,7 @@ author_profile: true
 
 <p>
 <a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/semantic.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding</a></b><br><b>Yiming Zhao</b>, Lin bai, and Xinming Huang. <br><i>IROS</i> 2021.<br>
+<b><a href="https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation">FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding</a></b><br><b>Yiming Zhao</b>, Lin Bai, and Xinming Huang. <br><i>IROS</i> 2021.<br>
 [<a href="https://arxiv.org/abs/2109.03787">Paper</a>]
 [<a href="https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI">Code</a>]
 <br clear="left">
@@ -43,7 +43,7 @@ author_profile: true
 
 <p>
 <a href="https://placeforyiming.github.io/publications/RAL-depth-completion"><img src="https://github.com/placeforyiming/placeforyiming.github.io/blob/master/images/depth_completion_DTNN.gif?raw=true" alt="Figure" style="width: 240px; height: 180px;" hspace="10" align="left"/></a>
-<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">Distance Transform Pooling Neural Network for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. <br><i>Under Revision for TNNLS</i>. .<br>
+<b><a href="https://placeforyiming.github.io/publications/RAL-depth-completion">Distance Transform Pooling Neural Network for LiDAR Depth Completion</a></b><br><b>Yiming Zhao</b>, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. <br><i>IEEE Transactions on Neural Networks and Learning Systems</i>. .<br>
 <!---[<a href="https://arxiv.org/abs/2104.08466">Paper</a>]
 [<a href="https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion">Code</a>]-->
 <br clear="left">
