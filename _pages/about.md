@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am working as an Algorithm Engineering at HESAI Technology, a top-1 lidar company with wide-range businesses in general robotics. I'm trying very hard to build a functional safety perception system that can overcome the shortcomings of the general black-box style data-driven methods. Part of my working outputs have been delivered to our mass-product customers and largely improved the safety level of many running cars in the traffic. 
 
-I'm a Ph.D. candidate supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/) at ECE Department of Worcester Polytechnic Institute. Coping with this deep learning age, my projects during Ph.D. explored how to combine deep learning methods with classic vision models to solve hard core 3D robotic perception challengs, including [depth completion](https://placeforyiming.github.io/publications/RAL-depth-completion/), and [point cloud panoptic segmentation](https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation/), and [localization with satellite](https://placeforyiming.github.io/publications/Homography-cvpr21/), etc. I have several papers published, accepted or under-review for premier conferences and journals in computer vision and robotics, including CVPR, ICCVW, ICRA, IROS, RAL, etc.
+Got my Ph.D. degree from the ECE Department of Worcester Polytechnic Institute, supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/). The projects during my Ph.D., including [depth completion](https://placeforyiming.github.io/publications/RAL-depth-completion/), [point cloud panoptic segmentation](https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation/), [localization with satellite](https://placeforyiming.github.io/publications/Homography-cvpr21/), explored how to utilize multi-discipline technics to solve challenging 3D perception problems for intelligent cars and drones. The specific knowledge lies in object detection, semantic segmentation, depth prediction/completion, image alignment, multi-view geometry, and point cloud processing. I have several papers published at premier conferences and journals in computer vision, robotics, and artificial intelligence, including CVPR, ICCV, ICRA, IROS, RAL, TNNLS, etc.
 
 In the middle of my Ph.D. from 05/2019 to 11/2019, I worked at ***iRobot*** as a visual perception intern supervised by Dr. Stefan Zickler. During my internship, I worked on ***self-supervised depth prediction*** with ***3D reconstruction***.
 
-Before starting my Ph.D. in Worcester Polytechnic Institute, I studied in physics for several years. The life of learning physics is enjoyable.
+Before starting my Ph.D. at Worcester Polytechnic Institute, I studied math and physics for seven years and earned one Batchelor's degree in physics and one Master's degree in systems science. I got one publication in the New Journal of Physics aiming to explain the underlying principle of human movement behaviors from the physics perspective. The life of learning physics is enjoyable.
 
 
 <!---
