@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working as an Algorithm Engineer at HESAI Technology, a top-1 lidar company with wide-range businesses in general robotics. I'm trying very hard to build a ***functional safety perception system*** that can overcome the shortcomings of the general black-box style data-driven methods. Part of my working outputs have been delivered to our mass-product customers and largely improved the safety level of many running cars in the traffic. 
 
 Got my Ph.D. degree from the ECE Department of Worcester Polytechnic Institute, supervised by [Dr. Xinming Huang](https://users.wpi.edu/~xhuang/). The projects during my Ph.D., including [depth completion](https://placeforyiming.github.io/publications/RAL-depth-completion/), [point cloud panoptic segmentation](https://placeforyiming.github.io/publications/point-cloud-panoptic-segmentation/), [localization with satellite](https://placeforyiming.github.io/publications/Homography-cvpr21/), explored how to utilize multi-discipline technics to solve challenging 3D perception problems for intelligent cars and drones. The specific knowledge lies in object detection, semantic segmentation, depth prediction/completion, image alignment, multi-view geometry, and point cloud processing. I have several papers published at premier conferences and journals in computer vision, robotics, and artificial intelligence, including CVPR, ICCV, ICRA, IROS, RAL, TNNLS, etc.
 
