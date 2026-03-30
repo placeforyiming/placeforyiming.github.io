@@ -38,14 +38,7 @@ Skills
 * Mathematical skills:
   * Foundatoins: Real & Complex Analysis, Linear & Abstract Algebra, Stochastic Analysis, Non-linear Dynamic, Mathematical Physics.
   * Statistics & Machine Learning: Prabability and Statistics, Multivariable Statistics, Machine Learning, Deep Learning. 
-  
-  
-  
-Education
-======
-* Ph.D in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2021
-* M.S. in Systems Science, Beijing Normal University, 2016
-* B.S. in Physics, Lanzhou University, 2014
+
 
 
 Publications
